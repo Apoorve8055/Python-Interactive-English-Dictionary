@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Project: Building an Interactive Dictionary
+Project: Building an Interactive English Dictionary
 @author: Apoorve Kumar Verma
-
+Source: https://github.com/Apoorve8055/Python-Interactive-English-Dictionary
 """
 import json
 from difflib import get_close_matches
